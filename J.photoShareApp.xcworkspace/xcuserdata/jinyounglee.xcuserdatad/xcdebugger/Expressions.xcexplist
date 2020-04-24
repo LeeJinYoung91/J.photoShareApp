@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TimelineViewController.tableView(_:cellForRowAt:):TimelineViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TimelineCollectionView.loadModelIfNeed(_:):TimelineCollectionView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ChatUtil.getChannelList(_:):ChatUtil.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "snapShot?.documents">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AccountManager.tryLoginInFirebaseAuth(_:listener:):AccountManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error?.localizedDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PostModel.ImageURL.getter:PostModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in NetworkRequest.loadImage(url:listener:):NetworkRequest.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "downloadData.request?.url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
